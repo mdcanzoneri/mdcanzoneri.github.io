@@ -1,0 +1,47 @@
+body {
+  background-color: #9e9e9e52;
+  font-family: arial;
+  background-image: url(tennis.jpeg);
+  background-size: cover;
+}
+
+#header {
+  font-size: 80px;
+  color: #9c27b0;
+  text-align: center;
+}
+
+.headers {
+  text-align: center;
+}
+
+h1.begreen {
+  color: green;
+}
+
+p.link {
+  color: red;
+}
+
+
+/* Replace h1 with attribute name to change specific element or multiple selectors */
+/* The more specific selector will be applied  */
+/* When these is no more specific tag, the last tag wins */
+
+img {
+  width: 300px;
+  border-style: solid;
+  border-color: pink;
+  border-width: 20px;
+  border-radius: 10px;
+  border-style: dotted;
+  padding: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+table {
+  padding: 0 10px 10px 0;
+}
