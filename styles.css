@@ -128,6 +128,16 @@ img.interact {
   border-color: 663C70;
 }
 
+img.dash {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 150px;
+  max-width: 80%;
+  border-width: 2 PX;
+  border: solid;
+  border-color: 663C70;
+}
+
 /* Pricing Styles */
 div.jb-pricing {
     background-image: url("zen.jpeg");
