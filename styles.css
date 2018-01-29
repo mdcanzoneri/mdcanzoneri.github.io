@@ -191,3 +191,17 @@ button.trial {
   color: 594F4F;
   margin-top: 90px;
 }
+
+button.btn-block {
+  border-color: #27d49e;
+  border-width: 3px;
+  color: 594F4F;
+  background-color: transparent;
+  margin-top: 40px;
+  width: 30%;
+}
+
+div.trial {
+  display: flex;
+  justify-content: center;
+}
